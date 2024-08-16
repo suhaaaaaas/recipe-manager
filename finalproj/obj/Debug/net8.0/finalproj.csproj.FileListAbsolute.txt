@@ -1,0 +1,14 @@
+/Users/suhaasnadella/Documents/vscode/finalproj/obj/Debug/net8.0/finalproj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suhaasnadella/Documents/vscode/finalproj/obj/Debug/net8.0/finalproj.AssemblyInfoInputs.cache
+/Users/suhaasnadella/Documents/vscode/finalproj/obj/Debug/net8.0/finalproj.AssemblyInfo.cs
+/Users/suhaasnadella/Documents/vscode/finalproj/obj/Debug/net8.0/finalproj.csproj.CoreCompileInputs.cache
+/Users/suhaasnadella/Documents/vscode/finalproj/bin/Debug/net8.0/finalproj
+/Users/suhaasnadella/Documents/vscode/finalproj/bin/Debug/net8.0/finalproj.deps.json
+/Users/suhaasnadella/Documents/vscode/finalproj/bin/Debug/net8.0/finalproj.runtimeconfig.json
+/Users/suhaasnadella/Documents/vscode/finalproj/bin/Debug/net8.0/finalproj.dll
+/Users/suhaasnadella/Documents/vscode/finalproj/bin/Debug/net8.0/finalproj.pdb
+/Users/suhaasnadella/Documents/vscode/finalproj/obj/Debug/net8.0/finalproj.dll
+/Users/suhaasnadella/Documents/vscode/finalproj/obj/Debug/net8.0/refint/finalproj.dll
+/Users/suhaasnadella/Documents/vscode/finalproj/obj/Debug/net8.0/finalproj.pdb
+/Users/suhaasnadella/Documents/vscode/finalproj/obj/Debug/net8.0/finalproj.genruntimeconfig.cache
+/Users/suhaasnadella/Documents/vscode/finalproj/obj/Debug/net8.0/ref/finalproj.dll
